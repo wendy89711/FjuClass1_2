@@ -11,7 +11,7 @@ public class M2 {
 		list.add("第二");
 		list.add("第三");
 		list.add("第四");
-		String s = list.get(3);
+		String s = list.get(1);
 		System.out.println(s);
 
 	}
