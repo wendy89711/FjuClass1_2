@@ -17,9 +17,9 @@ public class April23 {
 		} catch( Exception e) {
 			System.out.println("資料錯誤");
 		}
-		/*catch( ArithmeticException e) {
+		/*catch(ArithmeticException e) {
 			System.out.println("數值運算錯誤");
-		} catch( NumberFormatException e) {
+		} catch(NumberFormatException e) {
 			System.out.println("數字格式錯誤");
 		}*/
 		}
