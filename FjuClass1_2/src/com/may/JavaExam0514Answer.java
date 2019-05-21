@@ -1,3 +1,4 @@
+package com.may;
 import java.io.FileNotFoundException;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -9,7 +10,7 @@ public class JavaExam0514Answer {
         try{
             FileWriter word = new FileWriter("resultAnswer.txt");
             out = new PrintWriter(word);
-            out.write("JAVA Âê≥‰Ω©Áéü");
+            out.write("JAVA ?ê≥‰Ω©Á??");
             out.flush();
         } catch (FileNotFoundException e){
             e.printStackTrace();
