@@ -10,7 +10,7 @@ public class JavaExam0514Answer {
         try{
             FileWriter word = new FileWriter("resultAnswer.txt");
             out = new PrintWriter(word);
-            out.write("JAVA ?ê≥‰Ω©Á??");
+            out.write("JAVA Âê≥‰Ω©Áéü");
             out.flush();
         } catch (FileNotFoundException e){
             e.printStackTrace();
