@@ -10,6 +10,14 @@ public class May28 {
 		h1.start();
 		Horse h2 = new Horse("H2:");
 		h2.start();
+		try {
+			h2.join();
+			h1.join();
+		} catch (InterruptedException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
 		//
 //		HorseRunnable h1 = new HorseRunnable();
 //		Thread thread = new Thread(h1);
