@@ -1,4 +1,4 @@
-package com.wen.practice;
+package com.unknow;
 
 import java.util.HashMap;
 import java.util.Random;
@@ -19,6 +19,6 @@ public class Map {
 //			}
 		}
 		System.out.println(n);
-	}
+	}//不太懂
 
 }

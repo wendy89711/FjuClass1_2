@@ -1,4 +1,4 @@
-package com.mar;
+package com.unknow;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -21,7 +21,7 @@ public class M26T {
 				for(Item item : items) {
 					System.out.println(item.name + "\t" +item.qty);
 				}
-			}else {
+			}else {//難
 				break;
 			}
 		}

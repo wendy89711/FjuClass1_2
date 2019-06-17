@@ -1,4 +1,4 @@
-package com.wen.practice;
+package com.unknow;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -24,6 +24,6 @@ public class ListPractice {
 		for(int i=0;i<freq.length;i++) {
 			System.out.println(i+":"+freq[i]);
 		}
-		
+	//有難度	
 	}
 	}

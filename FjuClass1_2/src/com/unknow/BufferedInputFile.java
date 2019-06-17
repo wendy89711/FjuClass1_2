@@ -1,4 +1,4 @@
-package com.may;
+package com.unknow;
 
 import java.io.BufferedReader;
 import java.io.FileInputStream;
@@ -23,7 +23,7 @@ public class BufferedInputFile {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		
+		//looked
 	}
 		
 }

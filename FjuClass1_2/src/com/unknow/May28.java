@@ -1,4 +1,6 @@
-package com.may;
+package com.unknow;
+
+import com.may.Horse;
 
 public class May28 {
 
