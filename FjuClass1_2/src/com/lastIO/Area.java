@@ -7,5 +7,8 @@ public class Area {
 		this.areas = areas;
 		this.postCode = postCode;
 	}
+	public void add() {
+		
+	}
 
 }

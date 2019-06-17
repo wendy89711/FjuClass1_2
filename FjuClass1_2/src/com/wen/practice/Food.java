@@ -7,12 +7,12 @@ public class Food {
 
 	public static void main(String[] args) {
 		List<String> notice = new ArrayList<String>();
-		notice.add("¨Ó¶R¦n¦Yªº¯N¦a¥Ê");
-		notice.add("¦U¦ì¶m¿Ë¡A§Ú®aªº¯N¦a¥Ê¤S²¢¤S­»");
-		notice.add("ÁÙ¦³¤j®a³£·Rªº»e¦a¥Ê³á");
-		notice.add("¨Ó¶R¦n¦Yªº¯N¦a¥Ê");
+		notice.add("å¥½åƒçš„ç« é­šç‡’");
+		notice.add("å¿«ä¾†åƒã„›");
+		notice.add("ä¸ç„¶æŠŠä½ å‰æˆå°ç« é­š");
+		notice.add("æ°é¤”");
 		System.out.println(notice);
-
+		//looked
 	}
 
 }

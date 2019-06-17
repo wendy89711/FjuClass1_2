@@ -12,7 +12,7 @@ public class Practice {
 		bag.add(55);
 		bag.add(78);
 		System.out.println(bag);
-
+		//looked
 	}
 
 }

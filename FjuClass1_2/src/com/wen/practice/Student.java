@@ -7,11 +7,11 @@ public class Student {
 
 	public static void main(String[] args) {
 		Set<String> rollCall = new HashSet<>();
-		rollCall.add("1¸¹©P¿³­õ");
-		rollCall.add("2¸¹¯óªF¨S¦³¬£¹ï");
-		rollCall.add("3¸¹½²¨ÌªL");
+		rollCall.add("1è™Ÿå‘¨æ˜Ÿå“²");
+		rollCall.add("2è™Ÿè”¡ä¾æ—");
+		rollCall.add("3è™Ÿå³ä½©çŸ");
 		System.out.println(rollCall);
-		
+		//Setæ²’æœ‰é †åºæ²’æœ‰get()ã€æœ‰add()
 	}
 
 }

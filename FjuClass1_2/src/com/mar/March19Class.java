@@ -14,7 +14,7 @@ public class March19Class {
 		List<Integer> list = new ArrayList<>();
 		list.add(33);
 		list.add(22);
-		list.add(2, 45);
+		list.add(1, 45);
 		System.out.println(list.get(2));
 	}
 

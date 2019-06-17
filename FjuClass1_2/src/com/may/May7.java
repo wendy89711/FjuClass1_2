@@ -41,8 +41,7 @@ public class May7 {
 //			System.out.println(dd.delete());
 		}
 		for(int i=0;i<2000000;i++) {
-			System.out.println("qq");
-			
+		//	System.out.println("qq");
 			
 		}
 		
